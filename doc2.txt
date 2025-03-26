@@ -1,0 +1,2 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed.
+Popular machine learning algorithms include decision trees, support vector machines, and neural networks.

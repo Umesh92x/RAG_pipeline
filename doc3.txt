@@ -1,0 +1,2 @@
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans using natural language.
+NLP is used in applications like chatbots, sentiment analysis, and machine translation.
